@@ -1,6 +1,6 @@
 # puttly
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.puttly)<a href="https://twitter.com/iamthefrogy"> 
+![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.puttly)<a href="https://twitter.com/iamthefrogy"> </a>
 
 
 Tiny script to test PUT method with verification of uploaded file.<br/><br/>
